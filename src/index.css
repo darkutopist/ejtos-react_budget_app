@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#Currency{
+    color: white;
+    background-color: green;
+}
+
+.buttonplus
+{
+    border-radius: 50%;
+    background-color: green;
+    color: white;
+}
+
+.buttonminus
+{
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+}
